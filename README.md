@@ -7,8 +7,6 @@ Break sign to remove
 
 Respects the keepInventory gamerule - Set keepInventory to false for the plugin to function.
 
-attachFull948079
-
 Commands:
 /ldc remove - Remove your death chest with a command
 /ldc admin list - List all registered death chests.
