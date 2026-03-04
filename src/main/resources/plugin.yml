@@ -1,0 +1,20 @@
+name: LukesDeathChest
+version: '${project.version}'
+main: com.lukesdeathchest.LukesDeathChest
+api-version: '1.21'
+authors: [ akaLuke ]
+description: A custom death chest plugin. Place a sign with [deathchest] on a chest to protect your items on death.
+
+commands:
+  ldc:
+    description: Death chest management command.
+    aliases: [ lukesdeathchest ]
+    usage: /<command> [remove|admin]
+
+permissions:
+  lukesdeathchest.use:
+    description: Allows a player to create and use a death chest.
+    default: true
+  lukesdeathchest.admin:
+    description: Allows admin management of other players' death chests.
+    default: op
