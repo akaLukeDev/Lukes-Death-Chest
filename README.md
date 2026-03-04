@@ -1,7 +1,7 @@
 # Lukes-Death-Chest
-A minecraft plugin to send items to a chest upon death
+A minecraft plugin to send items and experience to a chest upon death
 
-Sends items to a chest when a player dies.
+Sends items and experience to a chest when a player dies.
 Place a sign on a chest and type [deathchest] to register your death chest.
 Break sign to remove
 
