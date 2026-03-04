@@ -7,6 +7,8 @@ Break sign to remove
 
 Respects the keepInventory gamerule - Set keepInventory to false for the plugin to function.
 
+https://cdn.modrinth.com/data/cached_images/1354b01e7e6adf191801e4c34aa0132a3df8cb4d.png
+
 Commands:
 /ldc remove - Remove your death chest with a command
 /ldc admin list - List all registered death chests.
